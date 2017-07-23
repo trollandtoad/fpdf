@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "dqfan2012\\fpdf\\": "src/"
+            "dqfan2012\fpdf\\": "src/"
         }
     }
 }
