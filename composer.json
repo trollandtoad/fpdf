@@ -1,0 +1,23 @@
+{
+    "name": "dqfan2012/fpdf",
+    "version": "1.8.1",
+    "homepage": "I took the original FPDF library made by Oliver Plathey and refactored it to use PSR-4 autloading",
+    "description": "",
+    "type": "library",
+    "keywords": ["pdf", "fpdf"],
+    "license": "no usage restriction",
+    "authors": [
+        {
+            "name": "Samuel Stidham",
+            "email": "dqfan2012@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "dqfan2012\\fpdf": "src/"
+        }
+    }
+}
