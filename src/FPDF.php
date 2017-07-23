@@ -1,6 +1,6 @@
 <?php
 
-namespace dqfan2012\fpdf;
+namespace fpdf;
 
 define('FPDF_VERSION','1.81');
 

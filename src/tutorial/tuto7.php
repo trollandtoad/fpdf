@@ -1,7 +1,7 @@
 <?php
 define('FPDF_FONTPATH','.');
 
-use dqfan2012\fpdf\FPDF;
+use fpdf\FPDF;
 
 $pdf = new FPDF();
 $pdf->AddFont('Calligrapher','','calligra.php');

@@ -1,6 +1,6 @@
 <?php
 
-namespace dqfan2012\fpdf\MakeFont;
+namespace fpdf\MakeFont;
 
 class TTFParser
 {

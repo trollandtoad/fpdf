@@ -1,6 +1,6 @@
 <?php
 
-use dqfan2012\fpdf\FPDF;
+use fpdf\FPDF;
 
 $pdf = new FPDF();
 $pdf->AddPage();
