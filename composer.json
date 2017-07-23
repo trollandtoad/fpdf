@@ -1,8 +1,7 @@
 {
     "name": "dqfan2012/fpdf",
     "version": "1.8.1",
-    "homepage": "I took the original FPDF library made by Oliver Plathey and refactored it to use PSR-4 autloading",
-    "description": "",
+    "description": "I took the original FPDF library made by Oliver Plathey and refactored it to use PSR-4 autloading",
     "type": "library",
     "keywords": ["pdf", "fpdf"],
     "license": "no usage restriction",
@@ -17,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "dqfan2012\\fpdf": "src/"
+            "dqfan2012\\fpdf\\": "src/"
         }
     }
 }
